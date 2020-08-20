@@ -1,7 +1,6 @@
 import { domSelectors } from './selectors.js';
 import { handleSubmit } from './handlers.js';
 import { clearFields } from './reset.js';
-import { localStorage } from './localstorage.js';
 
 //listeners
 
